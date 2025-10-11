@@ -14,7 +14,7 @@ experiment_name_custom: /Shared/marvel-characters-custom
 
 parameters:
   learning_rate: 0.01
-  n_estimators: 1000
+  n_estimators: 900
   max_depth: 6
 
 
